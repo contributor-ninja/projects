@@ -1,0 +1,73 @@
+- repo: babel/babel
+  label: beginner-friendly
+- repo: babel/babel.github.io
+  label: beginner-friendly
+- repo: babel/babel-preset-env
+  label: beginner-friendly
+
+- repo: facebook/jest
+  label: good first bug
+- repo: facebook/react
+  label: good first bug
+- repo: facebook/react-native
+  label: Good First Task
+
+- repo: yarnpkg/yarn
+  label: good first bug
+
+- repo: mxstbr/react-boilerplate
+  label: beginner
+
+- repo: eslint/eslint
+  label: beginner
+
+- repo: styled-components/styled-components
+  label: good first task
+
+- repo: stylelint/stylelint
+  label: beginner-friendly
+
+- repo: legomushroom/mojs
+  label: beginner-friendly
+
+- repo: lerna/lerna
+  label: beginner friendly
+
+- repo: yeoman/yo
+  label: easy
+
+- repo: Microsoft/TypeScript
+  label: 'Effort: Easy,Accepting PRs,Bug'
+
+- repo: emberjs/ember.js
+  label: Help Wanted
+- repo: emberjs/ember.js
+  label: Good for New Contributors
+- repo: ember-cli/ember-cli
+  label: Good for New Contributors
+
+- repo: vuejs/vue
+  label: contribution welcome
+- repo: vuejs/vue-cli
+  label: contribution welcome
+
+- repo: avajs/ava
+  label: good for beginner
+
+- repo: developit/preact
+  label: beginner-friendly
+- repo: developit/preact-compat
+  label: beginner-friendly
+
+- repo: hoodiehq/camp
+  label: up for grabs
+
+- repo: xtuc/async-reactor
+  label: beginner-friendly
+
+- repo: devtools-html/debugger.html
+  label: 'difficulty: easy,available'
+
+- repo: rofrischmann/fela
+  label: beginner
+
