@@ -71,3 +71,6 @@
 - repo: rofrischmann/fela
   label: beginner
 
+- repo: styleguidist/react-styleguidist
+  label: easy task
+
