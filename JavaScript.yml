@@ -1,9 +1,7 @@
 - repo: babel/babel
-  label: beginner-friendly
-- repo: babel/babel.github.io
-  label: beginner-friendly
-- repo: babel/babel-preset-env
-  label: beginner-friendly
+  label: good first issue
+- repo: babel/website
+  label: good first issue
 
 - repo: facebook/jest
   label: good first bug
