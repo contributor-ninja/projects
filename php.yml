@@ -1,0 +1,18 @@
+- repo: composer/composer
+  label: 'Easy Pick'
+
+- repo: wallabag/wallabag
+  label: 'Easy bug'
+
+- repo: deployphp/deployer
+  label: 'good for beginner'
+
+- repo: symfony/symfony
+  label: 'Easy Pick'
+
+- repo: symfony/symfony-docs
+  label: 'Easy Pick'
+
+- repo: piwik/piwik
+  label: 'Easy Pick'
+

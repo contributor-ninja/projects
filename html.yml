@@ -1,0 +1,9 @@
+- repo: google/material-design-lite
+  label: 'feature-request'
+
+- repo: emberjs/website
+  label: 'good for new contributors'
+
+- repo: angular/angular.io
+  label: 'design love'
+

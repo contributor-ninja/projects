@@ -1,0 +1,9 @@
+- repo: tootsuite/mastodon
+  label: 'fit for beginners'
+
+- repo: rails/rails
+  label: 'good-first-patch'
+
+- repo: capistrano/capistrano
+  label: 'you can help!'
+
