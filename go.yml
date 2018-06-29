@@ -1,0 +1,11 @@
+- repo: moby/moby
+  label: exp/beginner
+
+- repo: apex/apex
+  label: contrib (easy)
+
+- repo: apex/up
+  label: good first issue
+
+- repo: kubernetes/helm
+  label: starter
