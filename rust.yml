@@ -1,0 +1,8 @@
+- repo: rustwasm/book
+  label: good first issue
+
+- repo: rustwasm/wasm-bindgen
+  label: good first issue
+
+- repo: rustwasm/wasm-pack
+  label: good first issue
